@@ -6,7 +6,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.tekwik.youtube_1.3.1_iphoneos-arm.deb
 Size: 
-MD5sum: 
+MD5sum: 0a3c1802848b95f4b9c2148ad172523b
 Description: Old Youtube App
 Name: Classic Youtube App
 Author: Reposi3 <reposithree@gmail.com>
