@@ -1,0 +1,15 @@
+<package>
+	<id>tubefixer-2.0-152-RC1</id>
+	<name>TubeFixer</name>
+	<version>2.0</version>
+	<compatibility>
+		<firmware>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+</package>
