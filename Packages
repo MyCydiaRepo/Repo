@@ -1,6 +1,6 @@
 Package: com.tekwik.youtube_1.3.1_iphoneos-arm
 Version: 2.0.0-1
-Section: Tweaks
+Section: System
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
